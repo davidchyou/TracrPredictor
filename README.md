@@ -5,7 +5,7 @@ This application predicts tracrRNA genes in a genome with previously annotated C
 
 **The Galaxy server for TracrPredictor**
 
-The TracrPredictor is currently available as a web application [under our galaxy server](http://139.80.3.3:8080/) under the tab "CRISPR: TracrRNA Finder". However, source codes are available here in the zipped directory for downloading. Users will need to upload an “annotated” genome sequence file in GenBank format (gbk or gbff). Detailed usages are documened under the web interface.
+The TracrPredictor is currently available as a web application [on our galaxy server](http://139.80.3.3:8080/) under the tab "CRISPR: TracrRNA Finder". However, source codes are available here in the zipped directory for downloading. Users will need to upload an “annotated” genome sequence file in GenBank format (gbk or gbff). Detailed usages are documened under the web interface.
 
 Flat files showing the coordinates of tracrRNA on the genome, the structures of the repeat-anti-repeat hybrid and the tail-folding, and the prediction statistics are available in GFF and CSV formats, as well as reader-friendly TXT file.
 
